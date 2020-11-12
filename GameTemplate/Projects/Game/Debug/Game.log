@@ -1,0 +1,5 @@
+﻿  GameManager.cpp
+C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\GameEngine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\Game\GameManager.cpp(53,10): warning C4101: 'threadReturnValue': unreferenced local variable
+C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\Game\GameManager.cpp(143,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\Debug\Game.exe

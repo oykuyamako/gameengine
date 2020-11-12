@@ -1,0 +1,4 @@
+﻿  RenderManager.cpp
+C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\GameEngine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\GameEngine\RenderManager.cpp(96,7): warning C4101: 'threadReturnValue': unreferenced local variable
+  GameEngine.vcxproj -> C:\Users\mia\Downloads\game engines\SeymaCeydaOyku (1)\SeymaCeydaOyku\GameTemplate\Projects\Debug\GameEngine.lib

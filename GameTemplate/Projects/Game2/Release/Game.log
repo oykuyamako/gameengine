@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Source\GameEngine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Release\Game.lib and object C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Release\Game.exp
+  Generating code
+  1 of 130 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Release\Game.exe

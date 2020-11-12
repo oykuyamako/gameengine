@@ -1,0 +1,8 @@
+﻿  InputManager.cpp
+  Object.cpp
+  RenderManager.cpp
+  Texture.cpp
+  ObjectManager.cpp
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Source\GameEngine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\GameEngine\Object.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameEngine.vcxproj -> C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Release\GameEngine.lib

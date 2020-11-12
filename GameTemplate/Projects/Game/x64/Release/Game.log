@@ -1,0 +1,9 @@
+﻿  Block.cpp
+  Dot.cpp
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Game\Block.h(2,10): fatal error C1083: Cannot open include file: 'Object.h': No such file or directory
+  GameManager.cpp
+  MovingObject.cpp
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Game\MovingObject.h(3,10): fatal error C1083: Cannot open include file: 'Object.h': No such file or directory
+  Source.cpp
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Game\MovingObject.h(3,10): fatal error C1083: Cannot open include file: 'Object.h': No such file or directory
+C:\Users\mia\Downloads\GameTemplate\GameTemplate\Projects\Game\Source.cpp(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
