@@ -1,5 +1,5 @@
 # gameengine
-simple game engine implementation with c#
+simple game engine implementation with c++
 
 Summary
 
